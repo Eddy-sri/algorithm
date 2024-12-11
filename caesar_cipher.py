@@ -1,3 +1,9 @@
+"""
+key = 3
+str "eddy"  3 shift===> new str "hggb"
+
+"""
+
 from string import ascii_letters
 
 def encrypt(str,key):
